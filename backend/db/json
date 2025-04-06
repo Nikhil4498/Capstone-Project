@@ -1,0 +1,10 @@
+{
+  "provider": "aws",         // aws, azure, gcp
+  "service": "EC2",
+  "date": "2025-04-06",
+  "cost": 12.50,
+  "resource_usage": {
+    "cpu": "40%",
+    "memory": "512MB"
+  }
+}
